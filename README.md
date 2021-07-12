@@ -1,0 +1,2 @@
+# BCNotes
+bootcamp notes
