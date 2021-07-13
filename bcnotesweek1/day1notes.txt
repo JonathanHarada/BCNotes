@@ -1,0 +1,119 @@
+BootCamp notes:
+
+1st thing is called a stand up. Talk about what we worked on and what we will be working on.
+
+1st day lecture:
+Boot camp is a full stack web development bootcamp
+Developer: Problem solver; create stuff; teamwork; empathetic;
+
+Terms we will use: TLDR; re hi all (class is starting again);
+
+Code along: Instructor will code on the screen and we type in the same stuff
+
+-Set up webstorm project to take notes. Get PW protector moved to Chrome
+
+Mark down language or .md
+Can make a text file
+
+Markdown cheatsheet on GitHub
+Check out notion
+
+How to Google:
+-the language or technology you are working with
+-the command or term you want to know about
+-less is more
+
+Program terminology:
+
+-Function: a block of code; has to be called
+-Parameter or argument
+-Return Value: functions always return a value
+-Body: The code inside the function
+-Throws: errors that occur in the function and are passed back
+-Function signature: How to call of function name vaue = functionName(parameter1);
+-Comment text in a code file
+-DocBlock: special comment that defines how the function will behave
+-Type: data type (integer, string, array, object)
+
+How we call the function: say it's name let myVariable = addNumbers(1, 2)
+Name our variables using camel case (myVariable)
+
+Name variables with names that make sense
+
+HTML:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Basic HTML Page</title>
+  </head>
+  <body>
+    <h1>Hello, World! :D</h1>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>HTML DEMO</title>
+  </head>
+  <body>
+    <header>
+     <nav>
+       <a href="./page2.html">Page 2</a>
+       <a href="./page3.html">Page 3</a>
+     </nav>
+    </header>
+    <main >
+      <div>
+        <section>
+            jfjfjfjfffjfjfjf
+        </section>
+      </div>
+
+      <section>
+        fjfkjrrtjkdjffjhf
+      </section>
+    </main>
+    <footer>
+      <strong>Quickly created HTML page By Deepdive</strong>
+    </footer>
+  </body>
+</html>
+
+
+<img src="images/senator-arlo.jpg" alt="kitty senator"/>
+
+The body will contain all content
+Class attribute will be used for styling
+Will use ID and class attribute
+ID=JS
+Class=CSS
+
+<!-- this is a comment -->
+Table elements are for tabular data
+
+<table>
+  <tr>
+    <th>Column 1 Heading</th>
+    <th>Column 2 Heading</th>
+  </tr>
+  <tr>
+    <td>content</td>
+    <td>content</td>
+  </tr>
+  <tr>
+    <td>content</td>
+    <td>content</td>
+  </tr>
+</table>
+
+Heirarchial relationships:
+Parent; sibling; child; grandchild
+
+pwd: print working directory. Get exact directory for deployment
+~ (tilda) is linux for home
+
+FIRST DAY HOMEWORK:
