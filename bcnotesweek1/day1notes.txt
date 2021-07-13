@@ -42,6 +42,7 @@ Name variables with names that make sense
 
 HTML:
 
+'code'
 <!DOCTYPE html>
 <html lang="en">
   <head>
